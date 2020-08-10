@@ -1,0 +1,11 @@
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.csprojAssemblyReference.cache
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.csproj.CoreCompileInputs.cache
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.AssemblyInfoInputs.cache
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.AssemblyInfo.cs
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.deps.json
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.runtimeconfig.json
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.runtimeconfig.dev.json
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.dll
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.pdb
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.dll
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.pdb
