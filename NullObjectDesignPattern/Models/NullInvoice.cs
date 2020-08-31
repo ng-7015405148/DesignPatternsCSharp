@@ -18,9 +18,10 @@ namespace NullObjectDesignPattern.Models
         {
         }
         public static NullInvoice Instance { get { return Nested.instance; } }
-        class Nested
+        private class Nested
         {
             static Nested()
+
             {
             }
             internal static readonly NullInvoice instance = new NullInvoice();
