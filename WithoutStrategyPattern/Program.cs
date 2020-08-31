@@ -18,17 +18,12 @@ namespace WithoutStrategyPattern
                 throw new Exception("Please select the right Send Invoice method");
             }
 
-
             InvoiceService invoiceService = new InvoiceService();
-
             invoiceService.GenerateInvoice("Naveen Goyal", 2000);
-
-
             if (userInputBool)
             {
                 invoiceService.SendInvoice(userInputInt);
             }
-
             Console.ReadLine();
 
         }

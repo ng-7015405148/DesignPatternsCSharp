@@ -8,24 +8,15 @@ namespace WithoutStrategyPattern.Services
 {
     public class InvoiceService
     {
-        public InvoiceService()
-        {
-
-        }
-
         public string InvoiceText { get; set; }
 
         public void GenerateInvoice(string fullName, int amount)
         {
-
             InvoiceText = $"{fullName} have to pay a total amount of {amount}";
-
         }
 
         public void SendInvoice(int sendInvoice)
         {
-
-
             if (sendInvoice == (int)sendInvoiceVia.sendInvoiceViaSMS)
             {
                 Console.WriteLine($"{InvoiceText} sent via SMS");
@@ -34,7 +25,6 @@ namespace WithoutStrategyPattern.Services
             {
                 Console.WriteLine($"{InvoiceText} sent via Email");
             }
-
         }
 
     }

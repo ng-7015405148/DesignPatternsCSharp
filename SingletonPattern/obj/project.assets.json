@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\WithoutStrategyPattern\\WithoutStrategyPattern.csproj",
-      "projectName": "WithoutStrategyPattern",
-      "projectPath": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\WithoutStrategyPattern\\WithoutStrategyPattern.csproj",
+      "projectUniqueName": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\SingletonPattern\\SingletonPattern.csproj",
+      "projectName": "SingletonPattern",
+      "projectPath": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\SingletonPattern\\SingletonPattern.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\WithoutStrategyPattern\\obj\\",
+      "outputPath": "C:\\NG-7015405148\\Git Repository\\Design Patterns\\SingletonPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
