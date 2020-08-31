@@ -9,3 +9,4 @@ C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug
 C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\bin\Debug\netcoreapp2.1\WithoutStrategyPattern.pdb
 C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.dll
 C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.pdb
+C:\NG-7015405148\Git Repository\Design Patterns\WithoutStrategyPattern\obj\Debug\netcoreapp2.1\WithoutStrategyPattern.genruntimeconfig.cache

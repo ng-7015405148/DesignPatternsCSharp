@@ -9,3 +9,4 @@ C:\NG-7015405148\Git Repository\Design Patterns\SingletonPattern\bin\Debug\netco
 C:\NG-7015405148\Git Repository\Design Patterns\SingletonPattern\bin\Debug\netcoreapp2.1\SingletonPattern.pdb
 C:\NG-7015405148\Git Repository\Design Patterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.dll
 C:\NG-7015405148\Git Repository\Design Patterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.pdb
+C:\NG-7015405148\Git Repository\Design Patterns\SingletonPattern\obj\Debug\netcoreapp2.1\SingletonPattern.genruntimeconfig.cache
